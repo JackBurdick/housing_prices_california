@@ -1,0 +1,5 @@
+name: cali_housing
+channels:
+- defaults
+prefix: C:\Users\JackB\AppData\Local\conda\conda\envs\cali_housing
+
