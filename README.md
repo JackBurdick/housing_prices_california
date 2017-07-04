@@ -5,7 +5,6 @@
 Exploring california housing prices.
 ![overview image][image_output]
 
-This image ______
 
 ## Project Information
 The included [`./explore_housing_data.ipynb`](https://github.com/JackBurdick/housing_prices_california/blob/master/explore_housing_data.ipynb) provides a commented walk though of our pipeline and model creation and evaluation.
