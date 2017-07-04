@@ -9,6 +9,9 @@ Exploring california housing prices.
 ## Project Information
 The included [`./explore_housing_data.ipynb`](https://github.com/JackBurdick/housing_prices_california/blob/master/explore_housing_data.ipynb) provides a commented walk though of our pipeline and model creation and evaluation.
 
+## Dependencies
+- Conda environments have been included and can be found in the `./environments` directory for both windows and mac/linux
+
 ## Future Improvements:
 1. The main `.ipynb` should be cleaned up and comments need to be improved.
 
